@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main()
 {
-	printf"修改代码");
+	printf"别改代码");
 }
